@@ -1,20 +1,39 @@
 [
 { 
-    "nama" : "Aura",
-    "umur" : 21 ,
-    "nip"  : "2217020063",
-    "lulus": false,
-    "hobi" : ["masak", "nonton", "main game"],
-    "dosen": "Haditya Prasetyo"
+    "Nama pesanan" : "Calssic Cheese Burger",
+    "Harga" : "Rp 79.091" ,
+    "Topping"  : ["Tomato Sauce, Mustard Sauce, Tomato, Beef Rasher, Beef Crumble, Onion, Slice Cheese, Mozzarella Cheese"],
+    "Pizza Size": "Medium",
+    "Crusts" : "Cheese Burst",
+    "Jumlah": 2
 
 },
 { 
-    "nama" : "nelsi",
-    "umur" : 20 ,
-    "nip"  : "2217020003",
-    "lulus": false,
-    "hobi" : ["masak", "nonton", "main game"],
-    "dosen": "Haditya Prasetyo"
+    "Nama pesanan" : "Beef Pepperoni Feast",
+    "Harga" : "Rp 49.091" ,
+    "Topping"  : ["Domino's Pizza Sauce, Beef Pepperoni, Mozzarella Cheese"],
+    "Pizza Size": "Large",
+    "Crusts" : "Classic Handtossed",
+    "Jumlah": 1
+
+},
+{ 
+    "Nama pesanan" : "Margherita",
+    "Harga" : "Rp 49.091" ,
+    "Topping"  : ["Domino's Pizza Sauce, Tomato, Parsley, Mozzarella Cheese"],
+    "Pizza Size": "Personal",
+    "Crusts" : "Classic Handtossed",
+    "Jumlah": 2
+
+},
+{ 
+    "Nama pesanan" : "Chicken Pepperoni Feast",
+    "Harga" : "Rp 49.091" ,
+    "Topping"  : ["Domino's Pizza Sauce, Chicken Pepperoni, Mozzarella Cheese"],
+    "Pizza Size": "Medium",
+    "Crusts" : "Double Cheese Burst",
+    "Jumlah": 3
 
 }
+
 ]

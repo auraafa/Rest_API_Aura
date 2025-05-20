@@ -14,12 +14,13 @@
 // ];
 
 try {
+    header('content-type: application/json');
     $dbh = new PDO('mysql:host=localhost;dbname=latihanphp', 'root', '');
-    $db = $dbh->prepare('SELECT * FROM mahasiswa');
+    $db = $dbh->prepare('SELECT * FROM menu_pitzza');
     $db->execute();
-    $mahasiswa = $db->fetchAll(PDO::FETCH_ASSOC);
+    $menu_pitzza = $db->fetchAll(PDO::FETCH_ASSOC);
 
-    $data = json_encode($mahasiswa);
+    $data = json_encode($menu_pitzza);
     echo $data;
 } catch (PDOException $e) {
     echo 'Koneksi gagal: ' . $e->getMessage();
