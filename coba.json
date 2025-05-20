@@ -1,0 +1,20 @@
+[
+{ 
+    "nama" : "Aura",
+    "umur" : 21 ,
+    "nip"  : "2217020063",
+    "lulus": false,
+    "hobi" : ["masak", "nonton", "main game"],
+    "dosen": "Haditya Prasetyo"
+
+},
+{ 
+    "nama" : "nelsi",
+    "umur" : 20 ,
+    "nip"  : "2217020003",
+    "lulus": false,
+    "hobi" : ["masak", "nonton", "main game"],
+    "dosen": "Haditya Prasetyo"
+
+}
+]
