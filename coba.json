@@ -1,42 +1,42 @@
 {
     "menu":[
         { 
+            "Kategori" : "Pizza",
             "Nama pesanan" : "American Calssic Cheese Burger",
             "Harga" : 79091 ,
             "Topping"  : "Tomato Sauce, Mustard Sauce, Tomato, Beef Rasher, Beef Crumble, Onion, Slice Cheese, Mozzarella Cheese",
             "Pizza Size": "Medium",
             "Crusts" : "Cheese Burst",
-            "Jumlah": 2,
             "gambar" :"AMERICANCLASSICCHEESEBURGER.png" 
 
         },
         { 
+            "Kategori" : "Pizza",
             "Nama pesanan" : "Beef Pepperoni Feast",
             "Harga" : 49091 ,
             "Topping"  : "Domino's Pizza Sauce, Beef Pepperoni, Mozzarella Cheese",
             "Pizza Size": "Large",
             "Crusts" : "Classic Handtossed",
-            "Jumlah": 1,
             "gambar" :"BEEFPEPPERONIFEAST.png" 
 
         },
         { 
+            "Kategori" : "Pizza",
             "Nama pesanan" : "Margherita",
             "Harga" : 49091 ,
             "Topping"  : "Domino's Pizza Sauce, Tomato, Parsley, Mozzarella Cheese",
             "Pizza Size": "Personal",
             "Crusts" : "Classic Handtossed",
-            "Jumlah": 2,
             "gambar" :"MARGHERITAco.png"
 
         },
         { 
+            "Kategori" : "Pizza",
             "Nama pesanan" : "Chicken Pepperoni Feast",
             "Harga" : 49091 ,
             "Topping"  : "Domino's Pizza Sauce, Chicken Pepperoni, Mozzarella Cheese",
             "Pizza Size": "Medium",
             "Crusts" : "Double Cheese Burst",
-            "Jumlah": 3,
             "gambar" :"CHICKENPEPPERONIFEAST.png"
 
         }
